@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 210px;
+  background-color: black;
+}
+#container {
+  border: 5px solid black;
+  display: inline-block;
+  background-color: rgb(249, 249, 162);
+  padding: 20px;
+}
+#buttons {
+  padding: 20px;
+}
+.winner {
+  color: green;
+}
+.loser {
+  color: red;
+}
